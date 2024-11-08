@@ -11,7 +11,7 @@ const { delay, displayHeader } = require('./src/utils');
 
 async function main() {
   displayHeader();
-  console.log(`Please wait...\n`.yellow);
+  console.log(`Mari mengarit bersamaku\n`.green);
 
   await delay(1000);
 
