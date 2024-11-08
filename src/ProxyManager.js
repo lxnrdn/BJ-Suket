@@ -35,7 +35,7 @@ async function selectProxySource(inquirer) {
     {
       type: 'list',
       name: 'source',
-      message: 'Pilih proxy:'.purple,
+      message: 'Select proxy source:'.cyan,
       choices,
     },
   ]);
