@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const PROXY_SOURCES = {
   'BJ 1': 'https://jumpshare.com/s/AIJPzq5BxWbex2MTi70m',
-  'BJ 2': 'https://gist.github.com/lxnrdn/9fd1adba2bedf12f737c75c7ce511e56#file-gistfile1-txt',
+  'BJ 2': 'https://gist.githubusercontent.com/lxnrdn/9fd1adba2bedf12f737c75c7ce511e56/raw/93899b5abf1e81be34df7d839b2ee960528fc8a8/gistfile1.txt',
 };
 
 async function fetchProxies(url) {
