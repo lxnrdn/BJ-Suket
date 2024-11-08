@@ -1,11 +1,11 @@
 {
   "name": "BJ-Suket",
-  "version": "2.0.0",
-  "description": "Mari mengarit",
+  "version": "v.1.0",
+  "description": "Mari mengarit bersamaku",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "Mari mengarit bersamaku"
   },
   "keywords": [
     "WebSocket",
