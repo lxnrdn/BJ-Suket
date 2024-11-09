@@ -7,16 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": [
-    "WebSocket",
-    "proxy",
-    "HTTP",
-    "SOCKS",
-    "bot",
-    "getgrass",
-    "airdrops",
-    "farming"
-  ],
+
   "author": "BJ",
   "license": "MIT",
   "dependencies": {
