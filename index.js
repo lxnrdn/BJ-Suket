@@ -1,13 +1,13 @@
 require('colors');
 const inquirer = require('inquirer');
-const Bot = require('./src/Bot');
-const Config = require('./src/Config');
+const Bot = require('./BJ/Bot');
+const Config = require('./BJ/Config');
 const {
   fetchProxies,
   readLines,
   selectProxySource,
-} = require('./src/ProxyManager');
-const { delay, displayHeader } = require('./src/utils');
+} = require('./BJ/ProxyManager');
+const { delay, displayHeader } = require('./BJ/utils');
 
 async function main() {
   displayHeader();
